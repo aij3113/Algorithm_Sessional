@@ -5,4 +5,4 @@ In the labs, I have implimented different problems based on Algorithms, given by
 
 There are Problem discreptions, .cpp files, sample data set, PDF of the lab reports in the Folders.
 
-The folders may contain a .zip file containing PDF, CPP file, Input, Grapg etc.
+The folders may contain a .zip file containing PDF, CPP file, Input, Graph etc.
